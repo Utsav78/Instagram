@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876897254357",
+    "firebase_url": "https://instagram-cfca3.firebaseio.com",
+    "project_id": "instagram-cfca3",
+    "storage_bucket": "instagram-cfca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876897254357:android:a88dbbdabef94f943f9b5c",
+        "android_client_info": {
+          "package_name": "com.codewithutsav.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876897254357-dmalfsi9ms5b5857jkkb1g0kcnb7dda5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0b0DUOk_tXh_UzkFfdTC_HSuF5x6O-hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876897254357-dmalfsi9ms5b5857jkkb1g0kcnb7dda5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
